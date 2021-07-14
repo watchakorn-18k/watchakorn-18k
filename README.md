@@ -1,6 +1,23 @@
 ### Hi I'm WK สวัสดีจ้าเรา WK 👋
 
 
+  <a href="https://twitter.com/wk_0071" target="_blank">
+    <img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://steamcommunity.com/id/porton0071" target="_blank">
+    <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white"/>
+  </a>
+  
+   <a href="https://discord.gg/AsZgC95SYu" target="_blank">
+     <img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+   </a>
+
+  <a href="https://www.instagram.com/porton007/" target="_blank">
+     <img align="center" alt="İnstagram" src="https://img.shields.io/badge/-İnstagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+   </a>
+<br><br>
+
 [![Website](https://img.shields.io/website?label=WatChaKorn&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/porton.on.the.dark)](https://wk-e-learning.herokuapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/wk_0071?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwk_0071&screen_name=wk_0071)
 
@@ -14,7 +31,13 @@
 
 
 ### Languages and Tools Used | ภาษาโปรแกรมกับเครื่องมือที่ใช้:
-[<img align="left" alt="Teachablemachine" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="cyberduck" width="26px" src="https://cdn.cyberduck.io/img/cyberduck-icon-384.png" />][cyberduck]
+[<img align="left" alt="aegisub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Aegisub.png" />][aegisub]
+[<img align="left" alt="handbrake" width="26px" src="https://www.macthai.com/wp-content/uploads/2016/06/handbrake-logo.png" />][handbrake]
+[<img align="left" alt="mkvtoolnix" width="26px" src="http://ubuntuhandbook.org/wp-content/uploads/2016/12/mkvtoolnix-icon.png" />][mkvtoolnix]
+[<img align="left" alt="django" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-logo.png" />][django]
+[<img align="left" alt="jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />][jupyter]
 [<img align="left" alt="Teachablemachine" width="26px" src="https://i.ytimg.com/an/T2qQGqZxkD0/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg?v=5dc445a2" />][Teachablemachineplaylist]
 [<img align="left" alt="pythonwithmysql" width="26px" src="https://www.python-course.eu/images/sql_python_logo.png" />][pythonsqlplaylist]
 [<img align="left" alt="pythonbasic" width="26px" src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/Python-Logo.png?ssl=1" />][pythonbasicplaylist]
@@ -61,11 +84,14 @@
 
 </details>
 
+[mkvtoolnix]: #
+[handbrake]: #
+[aegisub]: #
+[cyberduck]: #
+[jupyter]: #
+[django]: https://www.djangoproject.com/
 [website]: https://wk-e-learning.herokuapp.com/
-[vscode]: https://code.visualstudio.com/
-[twitter]: https://twitter.com/wk_0071
-[youtube]: https://www.youtube.com/channel/UCRfU25HOpRrQ_39uXOWVv5g
-[instagram]: https://instagram.com/porton007
+[vscode]: #
 [Teachablemachineplaylist]: https://youtube.com/playlist?list=PLvB7ooH-vPPsCsieaCM9Wg2GlwSHlqVny
 [pythonsqlplaylist]: https://youtube.com/playlist?list=PLvB7ooH-vPPu1pymXS7d-EbtMq7VmUDwP
 [pythonbasicplaylist]: https://youtube.com/playlist?list=PLvB7ooH-vPPvIGOALK9CPbgzJxN2IiC9l
