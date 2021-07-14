@@ -36,12 +36,13 @@
 [<img align="left" alt="django" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-logo.png" />][django]
 [<img align="left" alt="jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />][jupyter]
 [<img align="left" alt="Teachablemachine" width="26px" src="https://i.ytimg.com/an/T2qQGqZxkD0/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg?v=5dc445a2" />][Teachablemachineplaylist]
-[<img align="left" alt="pythonbasic" width="26px" src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/Python-Logo.png?ssl=1" />][pythonbasicplaylist]
-[<img align="left" alt="MySQL" width="46px" src="https://bestinternet.co.th/img/blog/phpmyadmin-logo-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />][pythonsqlplaylist]
-[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][vscode]
-[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][vscode]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vscode]
-<br><br><br>
+[<img align="right" alt="pythonbasic" width="26px" src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/Python-Logo.png?ssl=1" />][pythonbasicplaylist]
+[<img align="right" alt="MySQL" width="46px" src="https://bestinternet.co.th/img/blog/phpmyadmin-logo-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />][pythonsqlplaylist]
+[<img align="right" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][vscode]
+[<img align="right" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][vscode]
+[<img align="right" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vscode]
+---
+<br><br>
 
 ### Tools For Translated Anime | เครื่องมือที่ใช้ในการแปลภาษาอนิเมะ
 
