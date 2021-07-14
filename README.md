@@ -42,9 +42,8 @@
 [<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][vscode]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vscode]
+---
 <br>
-
-
 
 ### Tools For Translated Anime | เครื่องมือที่ใช้ในการแปลภาษาอนิเมะ
 
