@@ -25,8 +25,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 <br>
 
-<img align="center" alt="watchakorn-18k's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian" />
-
+[![watchakorn-18k's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian)](https://github.com/watchakorn-18k/watchakorn-18k)
 ### 📺 YouTube Videos For Me | วิดีโอยูทูปของเรา
 
 <!-- YOUTUBE:START -->
@@ -49,9 +48,8 @@
 ➡️ [โพสต์บล็อกเพิ่มเติม...](https://dev.to/watchakorn18k)
 
 ## 🪶 GitHub Stats | สถิติ GitHub
-<img align="left" alt="watchakorn-18k's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=watchakorn-18k&theme=prussian&show_icons=true" />
-
-[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![watchakorn-18k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=watchakorn-18k&theme=prussian&show_icons=true)](https://github.com/watchakorn-18k/watchakorn-18k)
+[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](https://github.com/watchakorn-18k/watchakorn-18k)
 
 <details>
 <summary>:zap: Recent GitHub Activity | กิจกรรม GitHub ล่าสุด</summary>
