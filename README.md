@@ -29,13 +29,10 @@
 - ⚡ I love play guitar and play game | เราชอบเล่นกีต้าร์และเล่นเกม
 
 
-
-### Languages and Tools Used | ภาษาโปรแกรมกับเครื่องมือที่ใช้:
+---
+### Languages and Tools Used | ภาษาโปรแกรมกับเครื่องมือที่ใช้
 [<img align="left" alt="vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="cyberduck" width="26px" src="https://cdn.cyberduck.io/img/cyberduck-icon-384.png" />][cyberduck]
-[<img align="left" alt="aegisub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Aegisub.png" />][aegisub]
-[<img align="left" alt="handbrake" width="26px" src="https://www.macthai.com/wp-content/uploads/2016/06/handbrake-logo.png" />][handbrake]
-[<img align="left" alt="mkvtoolnix" width="26px" src="http://ubuntuhandbook.org/wp-content/uploads/2016/12/mkvtoolnix-icon.png" />][mkvtoolnix]
 [<img align="left" alt="django" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-logo.png" />][django]
 [<img align="left" alt="jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />][jupyter]
 [<img align="left" alt="Teachablemachine" width="26px" src="https://i.ytimg.com/an/T2qQGqZxkD0/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg?v=5dc445a2" />][Teachablemachineplaylist]
@@ -49,6 +46,27 @@
 <br>
 
 [![watchakorn-18k's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian)](https://github.com/watchakorn-18k/watchakorn-18k)
+
+### Tools For Translated Anime | เครื่องมือที่ใช้ในการแปลภาษาอนิเมะ
+
+[<img align="left" alt="aegisub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Aegisub.png" />][aegisub]
+[<img align="left" alt="handbrake" width="26px" src="https://www.macthai.com/wp-content/uploads/2016/06/handbrake-logo.png" />][handbrake]
+[<img align="left" alt="mkvtoolnix" width="26px" src="http://ubuntuhandbook.org/wp-content/uploads/2016/12/mkvtoolnix-icon.png" />][mkvtoolnix]
+---
+<br>
+
+### Tools For Edit Video And Photo | เครื่องมือที่ใช้ในการตัดต่อวิดีโอและรูปภาพ
+
+
+[<img align="left" alt="ps" width="26px" src="https://i.pinimg.com/originals/4c/b9/e1/4cb9e1ee7fa7b6e98f7ebd4b851729fa.png" />][empy]
+[<img align="left" alt="pr" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1051px-Adobe_Premiere_Pro_CC_icon.svg.png" />][empy]
+[<img align="left" alt="ae" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1051px-Adobe_After_Effects_CC_icon.svg.png" />][empy]
+[<img align="left" alt="an" width="26px" src="https://static.techspot.com/images2/downloads/topdownload/2020/07/2020-07-17-ts3_thumbs-5f0.png" />][empy]
+[<img align="left" alt="vector" width="26px" src="https://i-loadzone.com/wp-content/uploads/2020/12/Vector_Magic_logo.png" />][empy]
+[<img align="left" alt="luminar" width="26px" src="https://fujiaddict.com/wp-content/uploads/2020/09/LuminarAI.png" />][empy]
+---
+<br>
+
 ### 📺 YouTube Videos For Me | วิดีโอยูทูปของเรา
 
 <!-- YOUTUBE:START -->
@@ -84,6 +102,7 @@
 
 </details>
 
+[empy]: #
 [mkvtoolnix]: #
 [handbrake]: #
 [aegisub]: #
