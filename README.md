@@ -36,16 +36,15 @@
 [<img align="left" alt="django" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-logo.png" />][django]
 [<img align="left" alt="jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" />][jupyter]
 [<img align="left" alt="Teachablemachine" width="26px" src="https://i.ytimg.com/an/T2qQGqZxkD0/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg?v=5dc445a2" />][Teachablemachineplaylist]
-[<img align="left" alt="pythonwithmysql" width="26px" src="https://www.python-course.eu/images/sql_python_logo.png" />][pythonsqlplaylist]
 [<img align="left" alt="pythonbasic" width="26px" src="https://i0.wp.com/saixiii.com/wp-content/uploads/2017/04/Python-Logo.png?ssl=1" />][pythonbasicplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][pythonsqlplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][vscode]
+[<img align="left" alt="MySQL" width="46px" src="https://bestinternet.co.th/img/blog/phpmyadmin-logo-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3.png" />][pythonsqlplaylist]
+[<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][vscode]
+[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][vscode]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vscode]
 <br>
 
-[![watchakorn-18k's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian)](https://github.com/watchakorn-18k/watchakorn-18k)
+
 
 ### Tools For Translated Anime | เครื่องมือที่ใช้ในการแปลภาษาอนิเมะ
 
@@ -89,8 +88,13 @@
 ➡️ [โพสต์บล็อกเพิ่มเติม...](https://dev.to/watchakorn18k)
 
 ## 🪶 GitHub Stats | สถิติ GitHub
-[![watchakorn-18k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=watchakorn-18k&theme=prussian&show_icons=true)](https://github.com/watchakorn-18k/watchakorn-18k)
-[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](https://github.com/watchakorn-18k/watchakorn-18k)
+
+[![watchakorn-18k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=watchakorn-18k&theme=prussian&show_icons=true)](#)
+
+[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](#)
+
+[![watchakorn-18k's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian)](#)
+
 
 <details>
 <summary>:zap: Recent GitHub Activity | กิจกรรม GitHub ล่าสุด</summary>
