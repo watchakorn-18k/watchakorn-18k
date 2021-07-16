@@ -27,7 +27,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/wk_0071?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwk_0071&screen_name=wk_0071)
 
 [![Forks][forks-shield]][forks-url]
-[![wakatime](https://wakatime.com/badge/github/watchakorn-18k/watchakorn-18k.svg)](https://wakatime.com/badge/github/watchakorn-18k/watchakorn-18k)
 
 
 
