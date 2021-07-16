@@ -26,6 +26,7 @@
 [![Website](https://img.shields.io/website?label=WatChaKorn&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/porton.on.the.dark)](https://wk-e-learning.herokuapp.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/wk_0071?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwk_0071&screen_name=wk_0071)
 
+[![Forks][forks-shield]][forks-url]
 [![wakatime](https://wakatime.com/badge/github/watchakorn-18k/watchakorn-18k.svg)](https://wakatime.com/badge/github/watchakorn-18k/watchakorn-18k)
 
 
@@ -117,8 +118,8 @@
 
 </details>
 
-
-
+[forks-url]: https://github.com/watchakorn-18k/Windows2019RDP-US-WK/network/members
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [empy]: #
 [mkvtoolnix]: #
 [handbrake]: #
