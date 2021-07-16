@@ -105,7 +105,13 @@
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-
+```text
+Other        2 hrs 18 mins   █████████████░░░░░░░░░░░░   51.72 % 
+Python       1 hr 23 mins    ███████▓░░░░░░░░░░░░░░░░░   31.31 % 
+JavaScript   32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+HTML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+```
 <!--END_SECTION:waka-->
 
 
