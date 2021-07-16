@@ -106,9 +106,13 @@ Markdown     5 mins          ▓░░░░░░░░░░░░░░░░
 
 [![watchakorn-18k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=watchakorn-18k&theme=prussian&show_icons=true)](#)
 
-[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](#)
+## ⏳ GitHub Stats Languages Programing | สถิติการใช้ภาษาโปรแกรมบน GitHub
 
 [![watchakorn-18k's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian)](#)
+
+## ☕ Wakatime Stats
+
+[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](#)
 
 [![watchakorn-18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&theme=prussian)](#)
 
