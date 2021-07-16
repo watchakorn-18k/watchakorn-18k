@@ -90,7 +90,7 @@
 [![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](#)
 
 [![watchakorn-18k's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian)](#)
-
+[![wakatime](https://wakatime.com/badge/github/watchakorn-18k/watchakorn-18k.svg)](https://wakatime.com/badge/github/watchakorn-18k/watchakorn-18k)
 [![watchakorn-18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&theme=prussian)](#)
 
 
