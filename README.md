@@ -1,25 +1,8 @@
-### Hi I'm WK สวัสดีจ้าเรา WK 👋
 
+<h2 align="center">Hi I'm WK สวัสดีจ้าเรา WK 👋</h2>
 
-  <a href="https://twitter.com/wk_0071" target="_blank">
-    <img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-
-  <a href="https://steamcommunity.com/id/porton0071" target="_blank">
-    <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white"/>
-  </a>
-  
-   <a href="https://discord.gg/AsZgC95SYu" target="_blank">
-     <img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
-   </a>
-
-  <a href="https://www.instagram.com/porton007/" target="_blank">
-     <img align="center" alt="İnstagram" src="https://img.shields.io/badge/-İnstagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-   </a>
-<br>
-<br>
-
-[![Website](https://img.shields.io/website?label=WatChaKorn&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/porton.on.the.dark)](https://wk-e-learning.herokuapp.com) [![Twitter Follow](https://img.shields.io/twitter/follow/wk_0071?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwk_0071&screen_name=wk_0071) [![Forks][forks-shield]][forks-url]
+<p align="center"><a href="#"><img src="https://img.shields.io/github/languages/code-size/watchakorn-18k/watchakorn-18k"/></a>
+<a href="#"><img src="https://img.shields.io/github/stars/watchakorn-18k/watchakorn-18k?style=social"/></a><a href="#"><img src="https://img.shields.io/github/languages/count/watchakorn-18k/watchakorn-18k?style=social"/></a><a href="#"><img src="https://img.shields.io/github/forks/watchakorn-18k/Windows2019RDP-US-WK?style=social"/></a>
 
 
 
