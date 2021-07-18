@@ -16,17 +16,10 @@
   <a href="https://www.instagram.com/porton007/" target="_blank">
      <img align="center" alt="İnstagram" src="https://img.shields.io/badge/-İnstagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
    </a>
-   
-   
+<br>
 <br>
 
-
-<br>
-
-[![Website](https://img.shields.io/website?label=WatChaKorn&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/porton.on.the.dark)](https://wk-e-learning.herokuapp.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/wk_0071?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwk_0071&screen_name=wk_0071)
-
-[![Forks][forks-shield]][forks-url]
+[![Website](https://img.shields.io/website?label=WatChaKorn&style=for-the-badge&url=https%3A%2F%2Ffacebook.com/porton.on.the.dark)](https://wk-e-learning.herokuapp.com) [![Twitter Follow](https://img.shields.io/twitter/follow/wk_0071?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwk_0071&screen_name=wk_0071) [![Forks][forks-shield]][forks-url]
 
 
 
