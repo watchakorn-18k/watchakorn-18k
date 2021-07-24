@@ -88,9 +88,9 @@ Markdown   19 mins         ░░░░░░░░░░░░░░░░░�
 
 ## ☕ Wakatime Stats
 
-[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&layout=compact&theme=prussian)](#)
+[![watchakorn_18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&v=2&layout=compact&theme=prussian)](#)
 
-[![watchakorn-18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&theme=prussian)](#)
+[![watchakorn-18k's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=watchakorn_18k&v=2&theme=prussian)](#)
 
 <a href="#"><img width="500px" src="https://wakatime.com/share/@watchakorn_18k/a628bb94-fd28-44e1-b0cd-f5b0145855a6.svg" /></a>
 
