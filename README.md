@@ -8,13 +8,13 @@
 
 ## I'm a Noob | เรามือใหม่
 
-- 🌱 I’m currently learning everything | ตอนนี้เรากำลังเรียนรู้ทุกอย่าง
-- 👯 I’m looking for something new | เรากำลังมองหาอะไรใหม่ๆ
-- ⚡ I love play guitar and play game | เราชอบเล่นกีต้าร์และเล่นเกม
+- 🌱 I’m currently learning everything
+- 👯 I’m looking for something new
+- ⚡ I love play guitar and play game
 
 
 ---
-### Languages and Tools Used | ภาษาโปรแกรมกับเครื่องมือที่ใช้
+### Languages and Tools Used 
 [<img align="left" alt="vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="center" alt="cyberduck" width="26px" src="https://cdn.cyberduck.io/img/cyberduck-icon-384.png" />][cyberduck]
 [<img align="center" alt="django" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-logo.png" />][django]
@@ -26,7 +26,7 @@
 [<img align="center" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][vscode]
 [<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][vscode]
 
-### Tools For Translated Anime | เครื่องมือที่ใช้ในการแปลภาษาอนิเมะ
+### Tools For Translated Anime 
 
 [<img align="left" alt="aegisub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Aegisub.png" />][aegisub]
 [<img align="left" alt="handbrake" width="26px" src="https://www.macthai.com/wp-content/uploads/2016/06/handbrake-logo.png" />][handbrake]
@@ -34,7 +34,7 @@
 ---
 <br>
 
-### Tools For Edit Video And Photo | เครื่องมือที่ใช้ในการตัดต่อวิดีโอและรูปภาพ
+### Tools For Edit Video And Photo
 
 
 [<img align="left" alt="ps" width="26px" src="https://i.pinimg.com/originals/4c/b9/e1/4cb9e1ee7fa7b6e98f7ebd4b851729fa.png" />][empy]
@@ -46,7 +46,7 @@
 ---
 <br>
 
-### 📺 YouTube Videos For Me | วิดีโอยูทูปของเรา
+### 📺 YouTube Videos For Me 
 
 <!-- YOUTUBE:START -->
 - [การเขียนโปรแกรมบน Python](https://www.youtube.com/playlist?list=PLvB7ooH-vPPvIGOALK9CPbgzJxN2IiC9l)
@@ -59,7 +59,7 @@
 ➡️ [ดูวิดีโออีก...](https://www.youtube.com/channel/UCRfU25HOpRrQ_39uXOWVv5g)
 
 
-### 📕 Latest Blog Posts | โพสต์บล็อกล่าสุด
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [การเขียนภาษา Python โคตรพื้นฐาน](https://www.blockdit.com/posts/601ba11db17e8f42dbcb1c1a)
@@ -67,7 +67,7 @@
 
 ➡️ [โพสต์บล็อกเพิ่มเติม...](https://dev.to/watchakorn18k)
 
-## 💻 Coding Stats | สถิติการเขียนโค้ด
+## 💻 Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Python     8 hrs 32 mins   ████████████████████▒░░░░   80.73 % 
@@ -78,11 +78,11 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## 🪶 GitHub Stats | สถิติ GitHub
+## 🪶 GitHub Stats
 
 [![watchakorn-18k's GitHub Stats](https://github-readme-stats.vercel.app/api?username=watchakorn-18k&theme=prussian&show_icons=true)](#)
 
-## ⏳ GitHub Stats Languages Programing | สถิติการใช้ภาษาโปรแกรมบน GitHub
+## ⏳ GitHub Stats Languages Programing
 
 [![watchakorn-18k's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&layout=compact&theme=prussian)](#)
 
@@ -99,11 +99,9 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
 
 
 <details>
-<summary>:zap: Recent GitHub Activity | กิจกรรม GitHub ล่าสุด</summary>
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 แสดงความคิดเห็นใน [#1](https://github.com/watchakorn-18k/Website-Eleanning-ST64-KPV/issues/1) in [watchakorn-18k/Website-Eleanning-ST64-KPV](https://github.com/watchakorn-18k/Website-Eleanning-ST64-KPV)
-2. 🎉 Merged [#1](https://github.com/watchakorn-18k/Languang-TH-GTA-V-MODS/pull/1) in [watchakorn-18k/Languang-TH-GTA-V-MODS](https://github.com/watchakorn-18k/Languang-TH-GTA-V-MODS)
 <!--END_SECTION:activity-->
 
 </details>
