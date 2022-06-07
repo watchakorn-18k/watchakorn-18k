@@ -12,10 +12,17 @@ alt="adam-pw" /></a>
 
 <p align="center" ><img height="800px"  src="https://metrics.lecoq.io/watchakorn-18k?template=terminal&repositories.affiliations=watchakorn-18k&base.indepth=false&base.hireable=false&config.timezone=Asia%2FBangkok" /></p>
 
-## 🏆 Achievements
-    
-<p ><img src="https://metrics.lecoq.io/watchakorn-18k?template=classic&repositories.affiliations=watchakorn-18k&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=5&config.timezone=Asia%2FBangkok"
-alt="adam-pw" /></a></p>
+
+## 🔨 Tool
+<p align="center" >
+   <img height="50px" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" />
+   <img height="50px" src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" />
+<img height="50px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" />
+<img height="50px" src="https://skillicons.dev/icons?i=js,html,css,flask,sqlite,ps,pr,ae,mongodb,jquery,nginx,figma,discord" />
+   
+   
+</p>
+
 
 <br>
     
@@ -32,13 +39,18 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
 
 <br> 
 
+## 🏆 Achievements
+    
+<p ><img src="https://metrics.lecoq.io/watchakorn-18k?template=classic&repositories.affiliations=watchakorn-18k&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=5&config.timezone=Asia%2FBangkok"
+alt="adam-pw" /></a></p><br> 
   
 ## 🪶 GitHub Profile
-<p align="center" ><a href="#"><img height="180px"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watchakorn-18k&theme=monokai" /></a>
-<a href="#"><img height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watchakorn-18k&theme=monokai&utcOffset=8" /></a>
-    <a href="#"><img height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watchakorn-18k&theme=monokai" /></a>
+<p align="center" ><a href="#"><img height="150px"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watchakorn-18k&theme=monokai" /></a>
+<a href="#"><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watchakorn-18k&theme=monokai&utcOffset=8" /></a>
+    <a href="#"><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watchakorn-18k&theme=monokai" /></a>
 </p>
   <br>
+
   
 ## 🪶 GitHub State
 <p align="center" ><a href="#"><img  height="200px" src="https://github-readme-stats.vercel.app/api?username=watchakorn-18k&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=e4a136&icon_color=a960ff&text_color=ffffff&bg_color=211c1e" /></a>  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&langs_count=10&layout=compact&hide_border=true&title_color=e4a136&icon_color=a960ff&text_color=ffffff&bg_color=211c1e"/></p>
