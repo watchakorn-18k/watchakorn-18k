@@ -39,10 +39,6 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
 
 <br> 
 
-## 🏆 Achievements
-    
-<p ><img src="https://metrics.lecoq.io/watchakorn-18k?template=classic&repositories.affiliations=watchakorn-18k&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=5&config.timezone=Asia%2FBangkok"
-alt="adam-pw" /></a></p><br> 
   
 ## 🪶 GitHub Profile
 <p align="center" ><a href="#"><img height="150px"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watchakorn-18k&theme=monokai" /></a>
