@@ -56,4 +56,4 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
   
   
 ## 📐 Contribution Graph 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=watchakorn-18k&bg_color=201d1f&color=ffffff&line=00ffcc&point=4f5759&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=watchakorn-18k&bg_color=181617&color=ffffff&line=00f5c4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
