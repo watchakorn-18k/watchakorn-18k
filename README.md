@@ -50,7 +50,7 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
 
   
 ## 🪶 GitHub State
-<p align="center" ><a href="#"><img  height="200px" src="https://github-readme-stats.vercel.app/api?username=watchakorn-18k&layout=compact&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&title_color=e4a136&icon_color=a960ff&text_color=ffffff&bg_color=211c1e" /></a>  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=watchakorn-18k&langs_count=10&layout=compact&hide_border=true&title_color=e4a136&icon_color=a960ff&text_color=ffffff&bg_color=211c1e"/></p>
+<p align="center" >  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=monokai&Text=DDA22A">    <img  alt="watchakorn-18k's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/watchakorn-18k?cardType=level-alternate&theme=monokai&Text=DDA22A" />  </a></p>
 
   <br>
   
