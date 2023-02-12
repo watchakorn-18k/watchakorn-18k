@@ -11,7 +11,6 @@ alt="adam-pw" /></a>
 </p>
 
 
-
 [![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
 
 ## 🔨 Tool
@@ -24,6 +23,8 @@ alt="adam-pw" /></a>
    
 </p>
 
+
+![Metrics](https://metrics.lecoq.io/watchakorn-18k?template=classic&languages=1&isocalendar=1&lines=1&posts=1&activity=1&people=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=basic&lines.repositories.limit=4&lines.history.limit=1&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&posts=false&posts.source=dev.to&posts.user=.user.login&posts.descriptions=false&posts.covers=false&posts.limit=4&config.timezone=Asia%2FBangkok)
 
 <br>
     
@@ -40,20 +41,6 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
 
 <br> 
 
-  
-## 🪶 GitHub Profile
-<p align="center" ><a href="#"><img height="150px"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watchakorn-18k&theme=monokai" /></a>
-<a href="#"><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watchakorn-18k&theme=monokai&utcOffset=8" /></a>
-    <a href="#"><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watchakorn-18k&theme=monokai" /></a>
-</p>
-  <br>
-
-  
-## 🪶 GitHub State
-<p align="center" >  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=monokai&Text=DDA22A">    <img  alt="watchakorn-18k's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/watchakorn-18k?cardType=level-alternate&theme=monokai&Text=DDA22A" />  </a></p>
-
-  <br>
-  
   
 ## 📐 Contribution Graph 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=watchakorn-18k&bg_color=181617&color=ffffff&line=00f5c4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
