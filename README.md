@@ -41,6 +41,15 @@ Text       19 mins         ▓░░░░░░░░░░░░░░░░�
 
 <br> 
 
+## 🪶 GitHub State
+<p align="center" ><a href="#"><img height="150px"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watchakorn-18k&theme=monokai" /></a>
+<a href="#"><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watchakorn-18k&theme=monokai&utcOffset=8" /></a>
+<p align="center" >  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=monokai&Text=DDA22A"><img  alt="watchakorn-18k's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/watchakorn-18k?cardType=level-alternate&theme=monokai&Text=DDA22A" /></a>
+<a href="#"><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watchakorn-18k&theme=monokai" /></a>
+</p>
+
+  <br>
+
   
 ## 📐 Contribution Graph 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=watchakorn-18k&bg_color=181617&color=ffffff&line=00f5c4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
