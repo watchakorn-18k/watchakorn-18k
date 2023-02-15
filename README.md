@@ -44,12 +44,7 @@ alt="adam-pw" /></a>
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 51 mins   ██████████████░░░░░░░░░░░   55.49 %
-HTML         1 hr 56 mins    █████████▒░░░░░░░░░░░░░░░   37.79 %
-JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-RPMSpec      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other        8 hrs 1 min     ██████████████░░░░░░░░░░░   55.39 %
 ```
 
 <!--END_SECTION:waka-->
