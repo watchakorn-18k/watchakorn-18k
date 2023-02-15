@@ -30,7 +30,7 @@ alt="adam-pw" /></a>
     <img
       width="256"
       align="right"
-      src="https://github.com/watchakorn-18k/watchakorn-18k/blob/main/devcard.svg"
+      src="devcard.svg"
       style=""
     />
   </a>
