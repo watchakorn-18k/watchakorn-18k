@@ -42,11 +42,6 @@ alt="adam-pw" /></a>
     
 ## 💻 CODING STATS 
 <!--START_SECTION:waka-->
-
-```text
-Other        8 hrs 1 min     █████████████▒░░░░░░░░░░░   52.93 %
-```
-
 <!--END_SECTION:waka-->
 
 <br> 
