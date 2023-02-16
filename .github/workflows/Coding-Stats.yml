@@ -17,6 +17,7 @@ jobs:
           SHOW_TITLE: true
           SHOW_COMMIT: true
           TIME_RANGE: all_time
+          LOCAL: th
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
