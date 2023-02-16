@@ -8,10 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Recent GitHub Activity
+    name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
-      - uses: watchakorn-18k/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
