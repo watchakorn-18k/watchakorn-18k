@@ -1479,7 +1479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iron3oxide/fletched</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tools to build Flet apps with multiple views/routes and an MVP-based architecture pattern.</div>
@@ -2096,7 +2096,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.83m out of 379m repositories</span>
+                                    <span class="gh">ranked 2.96m out of 379m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -2611,7 +2611,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2023, 20:19:11 (timezone Asia/Bangkok) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Feb 2023, 21:08:48 (timezone Asia/Bangkok) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
