@@ -44,11 +44,11 @@ alt="adam-pw" /></a>
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2021 - To: 23 February 2023
+From: 14 July 2021 - To: 24 February 2023
 
-Total Time: 2,051 hrs 33 mins
+Total Time: 2,053 hrs 20 mins
 
-Other              1,206 hrs 58 mins>>>>>>>>>>>>>>>----------   58.83 %
+Other              1,206 hrs 58 mins>>>>>>>>>>>>>>>----------   58.78 %
 ```
 
 <!--END_SECTION:waka-->
