@@ -1507,7 +1507,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/monaco-editor</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A browser based code editor</div>
@@ -1560,7 +1560,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sbrunner/deskew</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Library used to deskew a scanned document</div>
@@ -2075,7 +2075,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.38m out of 380m repositories</span>
+                                    <span class="gh">ranked 1.43m out of 380m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">12</div>
                                     </div>
@@ -2124,7 +2124,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.93m out of 380m repositories</span>
+                                    <span class="gh">ranked 2.96m out of 380m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -2639,7 +2639,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2023, 09:17:48 (timezone Asia/Bangkok) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Feb 2023, 10:14:23 (timezone Asia/Bangkok) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
