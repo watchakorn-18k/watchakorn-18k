@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          sed -i 's/old-text/new-text/g' README.md
+        shell: bash
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README
+          commit_options: '--no-verify'
+          branch: ${{ github.ref }}
