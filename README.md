@@ -1,7 +1,4 @@
-
-<p align="center">Hi Everyone 👋</p>
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=328AFF&center=true&vCenter=true&height=100&lines=Our+is+watchakorn-18k"
+<p align="centeadme-typing-svg.herokuapp.com?size=30&color=328AFF&center=true&vCenter=true&height=100&lines=Our+is+watchakorn-18k"
 alt="adam-pw" /></a></p>
 <p align="center">
    <a><img src="https://komarev.com/ghpvc/?username=watchakorn-18k&label=Profile%20views&color=5ceb38&style=for-the-badge"
@@ -10,13 +7,45 @@ alt="adam-pw" /></a>
     <img src="https://img.shields.io/discord/639137693975969803?color=%23E4A14D&label=Discord%2018K%20%E2%84%A2%20Official&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-
 [![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
 
 
-new-text
 
+<!--START_SECTION:weather-->
 
+<p align="center">
+<table>
+  <tbody>
+  <tr>
+  </tr>
+  <tr>
+    <th colspan="4" align="center">
+        <p align="center">เมืองปากช่อง</p>
+        <p align="center">Pak Chong City</p>
+    </th>
+  </tr>
+  <tr>
+    <th align="center">
+         <br>
+      <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;"><br>
+      33.1°C<br>   
+    </th>
+    <th align="center">
+         <br>
+      <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091186488772923453/overcast.svg" alt="Wind Icon" width="60px" style="max-width: 100%;">
+      <br>
+      12.4m/s
+      <br>
+    </th>
+  </tr>
+</tbody>
+</table>
+เขตเวลา Asia/Bangkok
+<br>
+อัพเดทล่าสุด 2023-03-31 11:12:01
+</p">
+
+<!--END_SECTION:weather-->
 
 <div align="center">
   <a href="https://api.daily.dev/wk-18k" target="_blank">
@@ -29,6 +58,7 @@ new-text
   </a>
 </div>
 <p>
+
 <img src="github-metrics.svg">
 
 <h2 align="right">🔨 Tool</h2>
@@ -44,6 +74,7 @@ new-text
 <img height="30px" src="https://media.discordapp.net/attachments/581018943041306641/1091161269224091739/image.png?width=563&height=563" />
 </p>
 </p>
+
 <br>
     
 ## 💻 CODING STATS 
@@ -59,9 +90,10 @@ Other              1,206 hrs 58 mins>>>>>>>>>>>>>>-----------   57.25 %
 
 <!--END_SECTION:waka-->
 
-<br> 
+<br>
 
 ## 🪶 GitHub State
+
 <p align="center" style="display:justify;">
    <a href="#">
       <img width="255px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watchakorn-18k&theme=monokai" />
@@ -77,8 +109,6 @@ Other              1,206 hrs 58 mins>>>>>>>>>>>>>>-----------   57.25 %
    <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=watchakorn-18k&theme=monokai" /></a>
 </p>
 
-## 📐 Contribution Graph 
+## 📐 Contribution Graph
 
 <img style="max-width: 100%;width:100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=watchakorn-18k&bg_color=181617&color=ffffff&line=00f5c4&point=403d3d&area=true&hide_border=true">
-
-
