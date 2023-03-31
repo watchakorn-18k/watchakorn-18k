@@ -23,7 +23,10 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
-        
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: 'Update weather last time'
     - name: Run Python script And Commit
       run:  |
         python main.py
