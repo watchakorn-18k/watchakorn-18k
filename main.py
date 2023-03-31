@@ -44,43 +44,21 @@ def main():
         # The request was successful
         data = response.json()
         # Do something with the data
+
         replacement = f"""<!--START_SECTION:weather-->\n
-<p align="center">
-<table>
-  <tbody>
-  <tr>
-  </tr>
-  <tr>
-    <th colspan="4" align="center">
-        <p align="center">เมืองปากช่อง</p>
-        <p align="center">Pak Chong City</p>
-    </th>
-  </tr>
-  <tr>
-    <th align="center">
-         <br>
-      <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;"><br>
-      {data['current_weather']['temperature']}°C<br>   
-    </th>
-    <th align="center">
-         <br>
-      <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091186488772923453/overcast.svg" alt="Wind Icon" width="60px" style="max-width: 100%;">
-      <br>
-      {data["current_weather"]["windspeed"]}m/s
-      <br>
-    </th>
-  </tr>
-</tbody>
-</table>
-เขตเวลา {data['timezone']}
-<br>
-อัพเดทล่าสุด {ict_now_str}
-</p">"""
+<div align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp; | เมืองปากช่อง</br>Pak Chong City | &nbsp;&nbsp;&nbsp;&nbsp;
+:---: | :---: | :---:
+<img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;">| {data['timezone']} | <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091186488772923453/overcast.svg" alt="Wind Icon" width="60px" style="max-width: 100%;">|
+{data['current_weather']['temperature']}°C | {ict_now_str} | {data["current_weather"]["windspeed"]}m/s
+</div>"""
+
         with open(filename, mode="r", encoding="utf-8") as file:
             file_contents = file.readlines()
 
-        # Replace the pattern with the replacement string in the file contents
-        del file_contents[15:47]
+        
+        del file_contents[15:23]
         string_new = "".join(file_contents)
         with open(filename, mode="w", encoding="utf-8") as file:
             file.write(string_new)
