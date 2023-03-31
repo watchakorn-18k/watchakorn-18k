@@ -25,9 +25,10 @@ jobs:
         pip install requests
         
     - name: Run Python script And Commit
-      run: python main.py
-            git config --global user.email "${{secrets.EMAIL}}"
-            git config --global user.name "${{secrets.NAME}}"
-            git add -u
-            git diff-index --quiet HEAD || git commit -m "Update weather last time"
-            git push
+      run:  |
+        python main.py
+        git config --global user.email "${{ secrets.USER_EMAIL }}"
+        git config --global user.name "${{ secrets.USER_NAME }}"
+        git add README.md
+        git diff-index --quiet HEAD || git commit -m "Update weather last time"
+        git push
