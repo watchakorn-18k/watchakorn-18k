@@ -15,6 +15,12 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       
+    - name: Pull latest changes
+      uses: actions/checkout@v2
+      with:
+        ref: main # Replace 'main' with the name of your branch
+        fetch-depth: 0
+      
     - name: Install Python
       uses: actions/setup-python@v2
       with:
@@ -23,15 +29,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
-    - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: 'Update weather last time'
+        
     - name: Run Python script And Commit
       run:  |
         python main.py
         git config --global user.email "${{ secrets.USER_EMAIL }}"
         git config --global user.name "${{ secrets.USER_NAME }}"
         git add README.md
-        git diff-index --quiet HEAD || git commit -m "Update weather last time"
-        git push
+        git commit -m "Update weather"
+        git push origin main
