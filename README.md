@@ -13,37 +13,13 @@ alt="adam-pw" /></a>
 
 <!--START_SECTION:weather-->
 
-<p align="center">
-<table>
-  <tbody>
-  <tr>
-  </tr>
-  <tr>
-    <th colspan="4" align="center">
-        <p align="center">เมืองปากช่อง</p>
-        <p align="center">Pak Chong City</p>
-    </th>
-  </tr>
-  <tr>
-    <th align="center">
-         <br>
-      <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;"><br>
-      33.1°C<br>   
-    </th>
-    <th align="center">
-         <br>
-      <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091186488772923453/overcast.svg" alt="Wind Icon" width="60px" style="max-width: 100%;">
-      <br>
-      12.4m/s
-      <br>
-    </th>
-  </tr>
-</tbody>
-</table>
-เขตเวลา Asia/Bangkok
-<br>
-อัพเดทล่าสุด 2023-03-31 11:12:01
-</p">
+<div align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp; | เมืองปากช่อง</br>Pak Chong City | &nbsp;&nbsp;&nbsp;&nbsp;
+:---: | :---: | :---:
+<img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;">| Asia/Bangkok | <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091186488772923453/overcast.svg" alt="Wind Icon" width="60px" style="max-width: 100%;">|
+33.1°C | 2023-03-31 11:29:14 | 12.4m/s
+</div>
 
 <!--END_SECTION:weather-->
 
