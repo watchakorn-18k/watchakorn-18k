@@ -58,7 +58,7 @@ def main():
             file_contents = file.readlines()
 
         
-        del file_contents[15:23]
+        del file_contents[2:10]
         string_new = "".join(file_contents)
         with open(filename, mode="w", encoding="utf-8") as file:
             file.write(string_new)
