@@ -1,4 +1,4 @@
-<h1 align="center">Weather Today</h1>
+<h1 align="center">🌡️ Weather Today </h1>
 <!--START_SECTION:weather-->
 
 <div align="center">
@@ -22,6 +22,7 @@ alt="adam-pw" /></a>
 
 [![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
 
+<h1 align="center">🤳🏻My Profile</h1>
 
 <div align="center">
   <a href="https://api.daily.dev/wk-18k" target="_blank">
