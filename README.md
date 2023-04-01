@@ -1,16 +1,3 @@
-<p align="centeadme-typing-svg.herokuapp.com?size=30&color=328AFF&center=true&vCenter=true&height=100&lines=Our+is+watchakorn-18k"
-alt="adam-pw" /></a></p>
-<p align="center">
-   <a><img src="https://komarev.com/ghpvc/?username=watchakorn-18k&label=Profile%20views&color=5ceb38&style=for-the-badge"
-alt="adam-pw" /></a>
-  <a href="https://discord.gg/AsZgC95SYu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/639137693975969803?color=%23E4A14D&label=Discord%2018K%20%E2%84%A2%20Official&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
-
-[![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
-
-
-
 <!--START_SECTION:weather-->
 
 <div align="center">
@@ -22,6 +9,18 @@ alt="adam-pw" /></a>
 </div>
 
 <!--END_SECTION:weather-->
+
+<p align="centeadme-typing-svg.herokuapp.com?size=30&color=328AFF&center=true&vCenter=true&height=100&lines=Our+is+watchakorn-18k"
+alt="adam-pw" /></a></p>
+<p align="center">
+   <a><img src="https://komarev.com/ghpvc/?username=watchakorn-18k&label=Profile%20views&color=5ceb38&style=for-the-badge"
+alt="adam-pw" /></a>
+  <a href="https://discord.gg/AsZgC95SYu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/639137693975969803?color=%23E4A14D&label=Discord%2018K%20%E2%84%A2%20Official&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+[![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
+
 
 <div align="center">
   <a href="https://api.daily.dev/wk-18k" target="_blank">
