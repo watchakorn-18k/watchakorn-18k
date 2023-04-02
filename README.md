@@ -14,10 +14,15 @@
 <p align="centeadme-typing-svg.herokuapp.com?size=30&color=328AFF&center=true&vCenter=true&height=100&lines=Our+is+watchakorn-18k"
 alt="adam-pw" /></a></p>
 <p align="center">
-   <a><img src="https://komarev.com/ghpvc/?username=watchakorn-18k&label=Profile%20views&color=5ceb38&style=for-the-badge"
+   <a><img src="https://komarev.com/ghpvc/?username=watchakorn-18k&label=Profile%20views&color=5ceb38"
 alt="adam-pw" /></a>
   <a href="https://discord.gg/AsZgC95SYu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/639137693975969803?color=%23E4A14D&label=Discord%2018K%20%E2%84%A2%20Official&logo=discord&logoColor=white&style=for-the-badge"/></a>
+    <img src="https://img.shields.io/discord/639137693975969803?color=%23E4A14D&label=Discord%2018K%20%E2%84%A2%20Official&logo=discord&logoColor=white"/></a>
+   <a href="https://dev.to/watchakorn18k" >
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&logo=devdotto&logoColor=white"/></a>
+   <img src="https://img.shields.io/hackernews/user-karma/watchakorn-18k?style=social"/>
+      <a href="https://hackernoon.com/u/hacker2675889" >
+    <img src="https://img.shields.io/badge/Hacker%20Noon-00FE00.svg?logo=Hacker-Noon&logoColor=black&color=black&labelColor=lime"/></a>
 </p>
 
 [![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
