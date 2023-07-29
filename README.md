@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?&logo=devdotto&logoColor=white"/></a>
-   <img src="https://img.shields.io/hackernews/user-karma/watchakorn-18k?style=social"/>
-      <a href="https://hackernoon.com/u/hacker2675889" >
-    <img src="https://img.shields.io/badge/Hacker%20Noon-00FE00.svg?logo=Hacker-Noon&logoColor=black&color=black&labelColor=lime"/></a>
-</p>
-
-[![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
-
 <h1 align="center">🤳🏻My Profile</h1>
 
 <div align="center">
