@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-&nbsp;&nbsp;&nbsp;&nbsp; | เมืองปากช่อง</br>Pak Chong City | &nbsp;&nbsp;&nbsp;&nbsp;
-:---: | :---: | :---:
-<img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;">| Asia/Bangkok | <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091186488772923453/overcast.svg" alt="Wind Icon" width="60px" style="max-width: 100%;">|
-25.1°C | 2023-07-29 06:15:28 | 11.8m/s
-</div>
-
-<!--END_SECTION:weather-->
-
 <p align="centeadme-typing-svg.herokuapp.com?size=30&color=328AFF&center=true&vCenter=true&height=100&lines=Our+is+watchakorn-18k"
 alt="adam-pw" /></a></p>
 <p align="center">
