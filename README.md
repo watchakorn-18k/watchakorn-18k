@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-
-Total Time: 2,270 hrs 10 mins
-
-Other                      1,210 hrs 48 mins>>>>>>>>>>>>>------------   53.34 %
-Python                     468 hrs 46 mins >>>>>--------------------   20.65 %
-HTML                       141 hrs 51 mins >>-----------------------   06.25 %
-Lua                        127 hrs 26 mins >------------------------   05.61 %
-C#                         52 hrs 48 mins  >------------------------   02.33 %
 JavaScript                 46 hrs 9 mins   >------------------------   02.03 %
 Markdown                   40 hrs 12 mins  -------------------------   01.77 %
 TypeScript                 27 hrs 47 mins  -------------------------   01.22 %
