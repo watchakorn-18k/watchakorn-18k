@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-
-<br>
-
-## 🪶 GitHub State
-
-<table>
-<tr>
-   
 <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=watchakorn-18k&amp;theme=monokai" alt="" width="100%" /></td>
 <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=watchakorn-18k&amp;theme=monokai&amp;utcOffset=8" alt="" width="100%" /></td>
 <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/watchakorn-18k?cardType=level-alternate&amp;theme=monokai&amp;Text=DDA22A" alt="watchakorn-18k's GitHub Stats" width="100%" /></td>
