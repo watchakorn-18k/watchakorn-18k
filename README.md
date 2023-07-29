@@ -2,14 +2,6 @@
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
 
-<br>
-    
-## 💻 CODING STATS 
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 July 2021 - To: 22 July 2023
-
 Total Time: 2,270 hrs 10 mins
 
 Other                      1,210 hrs 48 mins>>>>>>>>>>>>>------------   53.34 %
