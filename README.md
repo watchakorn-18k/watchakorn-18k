@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-### Languages
-
-<div align="center">    
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-<img height="50px" src="https://skillicons.dev/icons?i=js,ts,lua,godot" />
-</div>
-
-</td></tr>
 <tr><td>
   
 ### Others
