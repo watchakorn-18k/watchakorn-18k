@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-</td></tr><tr><td valign="top" width="100%">
-
-### Backend
-
-<div align="center"> 
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <img height="50px" src="https://skillicons.dev/icons?i=flask,sqlite,mongodb,nginx" />
 </div>
 
