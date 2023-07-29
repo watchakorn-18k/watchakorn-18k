@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-JavaScript                 46 hrs 9 mins   >------------------------   02.03 %
-Markdown                   40 hrs 12 mins  -------------------------   01.77 %
-TypeScript                 27 hrs 47 mins  -------------------------   01.22 %
-CSS                        26 hrs 51 mins  -------------------------   01.18 %
-JSON                       25 hrs 48 mins  -------------------------   01.14 %
-```
-
-<!--END_SECTION:waka-->
 
 <br>
 
