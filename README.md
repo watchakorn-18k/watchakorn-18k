@@ -1,14 +1,6 @@
 <div align="right">
    
 ![image](https://github.com/watchakorn-18k/watchakorn-18k/assets/74919942/96319e97-b163-42aa-9a56-9094741ef7a9)
-<h1 align="center">🤳🏻My Profile</h1>
-
-<div align="center">
-  <a href="https://api.daily.dev/wk-18k" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="devcard.svg"
       style=""
     />
   </a>
