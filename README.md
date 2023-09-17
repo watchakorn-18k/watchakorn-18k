@@ -114,20 +114,20 @@ alt="adam-pw" /></a>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2021 - To: 09 September 2023
+From: 14 July 2021 - To: 16 September 2023
 
-Total Time: 2,331 hrs 10 mins
+Total Time: 2,342 hrs 1 min
 
-Other                      1,210 hrs 49 mins>>>>>>>>>>>>>------------   51.94 %
-Python                     513 hrs 1 min   >>>>>>-------------------   22.01 %
-HTML                       148 hrs 10 mins >>-----------------------   06.36 %
-Lua                        127 hrs 29 mins >------------------------   05.47 %
-C#                         53 hrs 53 mins  >------------------------   02.31 %
-JavaScript                 49 hrs 28 mins  >------------------------   02.12 %
-Markdown                   41 hrs 56 mins  -------------------------   01.80 %
+Other                      1,210 hrs 49 mins>>>>>>>>>>>>>------------   51.70 %
+Python                     518 hrs 55 mins >>>>>>-------------------   22.16 %
+HTML                       149 hrs 58 mins >>-----------------------   06.40 %
+Lua                        127 hrs 29 mins >------------------------   05.44 %
+C#                         53 hrs 53 mins  >------------------------   02.30 %
+JavaScript                 49 hrs 28 mins  >------------------------   02.11 %
+Markdown                   42 hrs 17 mins  -------------------------   01.81 %
 TypeScript                 28 hrs 17 mins  -------------------------   01.21 %
-CSS                        27 hrs 28 mins  -------------------------   01.18 %
-JSON                       25 hrs 59 mins  -------------------------   01.12 %
+CSS                        27 hrs 28 mins  -------------------------   01.17 %
+JSON                       26 hrs 41 mins  -------------------------   01.14 %
 ```
 
 <!--END_SECTION:waka-->
