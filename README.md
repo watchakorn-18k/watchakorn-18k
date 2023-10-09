@@ -23,6 +23,8 @@ alt="adam-pw" /></a>
    <img src="https://img.shields.io/hackernews/user-karma/watchakorn-18k?style=social"/>
       <a href="https://hackernoon.com/u/hacker2675889" >
     <img src="https://img.shields.io/badge/Hacker%20Noon-00FE00.svg?logo=Hacker-Noon&logoColor=black&color=black&labelColor=lime"/></a>
+    <a href="[https://hackernoon.com/u/hacker2675889](https://codeium.com)" >
+    <img src="https://codeium.com/badges/main"/></a>
 </p>
 
 [![@wk18k's Holopin board](https://holopin.me/wk18k)](https://holopin.io/@wk18k)
