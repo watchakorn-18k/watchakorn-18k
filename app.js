@@ -49,11 +49,34 @@ const HeroPage = () => {
     .then((res) => console.log(res.text()))
     .then((data) => console.log(data));
   return div(
-    { class: "hero min-h-screen bg-base-200 font-mono" },
+    {
+      class:
+        "hero min-h-screen bg-gradient-to-t from-base-200 to-primary from-[2rem] font-mono"
+    },
 
     div({ class: "hero-content text-center" }, Hello(), title("watchakorn-18k"))
   );
 };
+const Profile = () => {
+  return div(
+    { class: "text-center" },
+    h1({ class: "text-3xl font-mono" }, "🤳🏻My Profile"),
+    div(
+      { class: "mx-24" },
+      img({
+        src:
+          "https://github.com/watchakorn-18k/watchakorn-18k/raw/main/github-metrics.svg",
+        class: "w-full lg:w-[40rem]"
+      })
+    )
+  );
+};
 
-const Main = () => div(HeroPage());
+const Main = () =>
+  div(
+    { class: "bg-base-200 flex flex-col gap-2 items-center text-white" },
+    () => HeroPage(),
+    Profile()
+  );
+//https://holopin.io/@wk18k
 van.add(document.body, Main());
