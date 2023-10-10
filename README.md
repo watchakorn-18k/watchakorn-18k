@@ -47,7 +47,7 @@ alt="adam-pw" /></a>
 
 <h2 align="center">🔨 My TOOL</h2>
 
-<table>
+<table align="center">
   <tr></tr>
   <tr><td valign="top" width="100%">
 
@@ -104,7 +104,8 @@ alt="adam-pw" /></a>
 ### Cards
 
 <div align="center">  
-<img width="50%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6480cffde2e0754ffd4a" alt="Appwrite Cloud Card" />
+<img height="200px" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6480cffde2e0754ffd4a" alt="Appwrite Cloud Card" />
+<img height="200px" src="https://media.discordapp.net/attachments/585068497495654413/1161373235426893914/image.png" alt="HackSquad 2023 ticket" />
 </div>
 </td></tr>
 </table>
