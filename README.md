@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; | เมืองปากช่อง</br>Pak Chong City | &nbsp;&nbsp;&nbsp;&nbsp;
 :---: | :---: | :---:
 <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;">| Asia/Bangkok | <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091186488772923453/overcast.svg" alt="Wind Icon" width="60px" style="max-width: 100%;">|
-25.7°C | 2023-10-30 18:13:59 | 7.6m/s
+24.9°C | 2023-10-30 19:33:10 | 8.3m/s
 </div>
 
 <!--END_SECTION:weather-->
