@@ -54,11 +54,12 @@ alt="adam-pw" /></a>
 ### Frontend
     
 
-<div align="center">    
-<img height="50px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" />
-<img height="50px"  src="https://skillicons.dev/icons?i=js,html,css,figma" />
+<div align="center">
+<img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind" />
+   <img height="50px" src="https://daisyui.com/images/daisyui-logo/daisyui-logotype.svg" />
 <img height="50px" src="https://media.discordapp.net/attachments/581018943041306641/1091161269224091739/image.png?width=563&height=563" />
 <img height="50px" src="https://cdn.discordapp.com/attachments/581018943041306641/1091157522079035423/image.png" />
+
 </div>
 
 </td></tr><tr><td valign="top" width="100%">
@@ -66,10 +67,9 @@ alt="adam-pw" /></a>
 ### Backend
 
 <div align="center"> 
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<img height="50px" src="https://skillicons.dev/icons?i=flask,sqlite,mongodb,nginx" />
+<img height="50px" src="https://skillicons.dev/icons?i=flask,sqlite,mongodb,nginx,django,fastapi,mysql" />
 </div>
 
 </td>
@@ -81,19 +81,30 @@ alt="adam-pw" /></a>
 
 <div align="center">    
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-<img height="50px" src="https://skillicons.dev/icons?i=js,ts,lua,godot" />
+<img height="50px" src="https://skillicons.dev/icons?i=js,ts,lua,godot,rust,go,php" />
 </div>
 
 </td></tr>
+
+<tr><td>
+  
+### Tools
+
+<div align="center">    
+<img height="50px" src="https://skillicons.dev/icons?i=postman,docker,qt,vim,vite,selenium,powershell,replit" />
+<img height="50px" src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" />
+<img height="50px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" />
+</div>
+
+</td></tr>
+
 <tr><td>
   
 ### Others
 
 <div align="center">    
 <img height="50px" src="https://media.discordapp.net/attachments/581018943041306641/1091155936917336064/image.png?width=563&height=563" />
-<img height="50px" src="https://skillicons.dev/icons?i=ps,pr,ae,discord" />
-<img height="50px" src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" />
-<img height="50px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" />
+<img height="50px" src="https://skillicons.dev/icons?i=ps,pr,ae,discord,linkedin,raspberrypi,wordpress" />
 </div>
 
 </td></tr>
