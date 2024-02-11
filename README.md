@@ -128,20 +128,20 @@ alt="adam-pw" /></a>
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2021 - To: 03 February 2024
+From: 14 July 2021 - To: 10 February 2024
 
-Total Time: 2,679 hrs 3 mins
+Total Time: 2,726 hrs 38 mins
 
-Other                      1,212 hrs 3 mins>>>>>>>>>>>--------------   45.24 %
-Python                     607 hrs 40 mins >>>>>>-------------------   22.68 %
-HTML                       305 hrs 54 mins >>>----------------------   11.42 %
-Lua                        127 hrs 29 mins >------------------------   04.76 %
-JavaScript                 75 hrs 29 mins  >------------------------   02.82 %
-C#                         53 hrs 53 mins  >------------------------   02.01 %
-Markdown                   53 hrs 12 mins  -------------------------   01.99 %
-TypeScript                 37 hrs 19 mins  -------------------------   01.39 %
-CSS                        29 hrs 34 mins  -------------------------   01.10 %
-JSON                       27 hrs 55 mins  -------------------------   01.04 %
+Other                      1,212 hrs 13 mins>>>>>>>>>>>--------------   44.46 %
+Python                     641 hrs 24 mins >>>>>>-------------------   23.52 %
+HTML                       306 hrs 10 mins >>>----------------------   11.23 %
+Lua                        127 hrs 39 mins >------------------------   04.68 %
+JavaScript                 75 hrs 29 mins  >------------------------   02.77 %
+Markdown                   54 hrs 22 mins  -------------------------   01.99 %
+C#                         53 hrs 53 mins  -------------------------   01.98 %
+TypeScript                 37 hrs 19 mins  -------------------------   01.37 %
+JSON                       30 hrs 21 mins  -------------------------   01.11 %
+CSS                        29 hrs 34 mins  -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
