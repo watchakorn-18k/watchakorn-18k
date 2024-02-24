@@ -19,4 +19,4 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 20
-          STOP_AT_OTHER: false
+          STOP_AT_OTHER: true
