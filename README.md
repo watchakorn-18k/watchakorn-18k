@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; | เมืองปากช่อง</br>Pak Chong City | &nbsp;&nbsp;&nbsp;&nbsp;
 :---: | :---: | :---:
 <img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;">| Asia/Bangkok | <img src="https://github.com/watchakorn-18k/watchakorn-18k/blob/83c18f95cc6f378185f7e0ee47fb548bf5a1f5f2/wind.png?raw=true" alt="Wind Icon" width="60px" style="max-width: 100%;">|
-26.4°C | 2024-03-25 23:56:25 | 2.4m/s
+26.4°C | 2024-03-25 23:55:27 | 2.4m/s
 </div>
 
 <!--END_SECTION:weather-->
@@ -55,10 +55,8 @@ alt="adam-pw" /></a>
     
 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind" />
+<img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind,nodejs,bun,vite" />
    <img height="50px" src="https://daisyui.com/images/daisyui-logo/daisyui-logotype.svg" />
-<img height="50px" src="https://media.discordapp.net/attachments/581018943041306641/1091161269224091739/image.png?width=563&height=563" />
-<img height="50px" src="https://cdn.discordapp.com/attachments/581018943041306641/1091157522079035423/image.png" />
 
 </div>
 
@@ -67,8 +65,8 @@ alt="adam-pw" /></a>
 ### Backend
 
 <div align="center"> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<img height="50px" src="https://skillicons.dev/icons?i=flask,nginx,django,fastapi,fiber" />
+<img height="50px" src="https://skillicons.dev/icons?i=flask,nginx,django,fastapi,express" />
+<img height="50px" src="https://docs.gofiber.io/img/logo-dark.svg" />
 </div>
 
 </td>
@@ -78,8 +76,9 @@ alt="adam-pw" /></a>
 ### Database
 
 <div align="center"> 
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<img height="50px" src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis" />
+<img height="50px" src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis,supabase,firebase,notion" />
+<img height="50px" src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png"  />
 </div>
 
 </td>
@@ -91,7 +90,7 @@ alt="adam-pw" /></a>
 
 <div align="center">    
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-<img height="50px" src="https://skillicons.dev/icons?i=js,ts,lua,godot,rust,go,php" />
+<img height="50px" src="https://skillicons.dev/icons?i=js,go,ts,lua,godot,rust,php,cs" />
 </div>
 
 </td></tr>
@@ -101,9 +100,9 @@ alt="adam-pw" /></a>
 ### Tools
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=postman,docker,qt,vim,vite,selenium,powershell,replit,vscode" />
-<img height="50px" src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" />
-<img height="50px" src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" />
+<img height="50px" src="https://skillicons.dev/icons?i=postman,docker,qt,vim,selenium,git,vscode,vscodium" />
+<img height="50px" src="https://icon.icepanel.io/Technology/svg/Podman.svg" />
+<img height="50px" src="https://locust.io/static/img/logo.png" />
 </div>
 
 </td></tr>
