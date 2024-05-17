@@ -50,7 +50,7 @@ def main():
 
 &nbsp;&nbsp;&nbsp;&nbsp; | เมืองปากช่อง</br>Pak Chong City | &nbsp;&nbsp;&nbsp;&nbsp;
 :---: | :---: | :---:
-<img src="https://cdn.discordapp.com/attachments/581018943041306641/1091183945216954378/thermometer.svg" alt="Temperature Icon" width="60px" style="max-width: 100%;">| {data['timezone']} | <img src="https://github.com/watchakorn-18k/watchakorn-18k/blob/83c18f95cc6f378185f7e0ee47fb548bf5a1f5f2/wind.png?raw=true" alt="Wind Icon" width="60px" style="max-width: 100%;">|
+<img src="temp.png" alt="Temperature Icon" width="60px" style="max-width: 100%;">| {data['timezone']} | <img src="https://github.com/watchakorn-18k/watchakorn-18k/blob/83c18f95cc6f378185f7e0ee47fb548bf5a1f5f2/wind.png?raw=true" alt="Wind Icon" width="60px" style="max-width: 100%;">|
 {data['current_weather']['temperature']}°C | {ict_now_str} | {data["current_weather"]["windspeed"]}m/s
 </div>"""
 
