@@ -121,15 +121,14 @@ alt="adam-pw" /></a>
 <td valign="top" >
 
 ### Cards
-
 <div align="center">  
-<img height="200px" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6480cffde2e0754ffd4a" alt="Appwrite Cloud Card" />
-<img height="200px" src="https://media.discordapp.net/attachments/585068497495654413/1161373235426893914/image.png" alt="HackSquad 2023 ticket" />
+  <img height="200px" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6480cffde2e0754ffd4a" alt="Appwrite Cloud Card" />
+  <img height="200px" src="example/squad/card_23.png" alt="HackSquad 2023 ticket" />
 </div>
-</td></tr>
+</td>
+</tr>
 </table>
 </div>
-
 <br>
     
 ## 💻 CODING STATS 
