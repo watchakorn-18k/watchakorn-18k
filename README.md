@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; | เมืองปากช่อง</br>Pak Chong City | &nbsp;&nbsp;&nbsp;&nbsp;
 :---: | :---: | :---:
 <img src="temp.png" alt="Temperature Icon" width="60px" style="max-width: 100%;">| Asia/Bangkok | <img src="https://github.com/watchakorn-18k/watchakorn-18k/blob/83c18f95cc6f378185f7e0ee47fb548bf5a1f5f2/wind.png?raw=true" alt="Wind Icon" width="60px" style="max-width: 100%;">|
-27.0°C | 2024-06-02 08:24:19 | 8.1m/s
+28.0°C | 2024-06-02 09:34:59 | 12.1m/s
 </div>
 
 <!--END_SECTION:weather-->
