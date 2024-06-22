@@ -32,14 +32,7 @@ alt="adam-pw" /></a>
 <h1 align="center">🤳🏻My Profile</h1>
 
 <div align="center">
-  <a href="https://api.daily.dev/wk-18k" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="devcard.svg"
-      style=""
-    />
-  </a>
+<a href="https://app.daily.dev/wk18k"><img src="https://api.daily.dev/devcards/v2/R4A9vwYuZaODReN8yI9ca.png?type=default&r=68e" width="356" alt="watchakorn's Dev Card"/></a>
 </div>
 <p>
 
