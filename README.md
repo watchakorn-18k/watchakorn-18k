@@ -121,6 +121,12 @@ alt="adam-pw" /></a>
 </div>
 </td>
 </tr>
+<td valign="top" >
+<div align="center">  
+  <img height="200px" src="example/squad/devFest_2024.png" alt="DevFest 2024 ticket" />
+</div>
+</td>
+</tr>
 </table>
 </div>
 <br>
