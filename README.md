@@ -50,7 +50,6 @@ alt="adam-pw" /></a>
 
 <div align="center">
 <img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind,nodejs,bun,vite" />
-   <img height="50px" src="https://daisyui.com/images/daisyui-logo/daisyui-logotype.svg" />
 
 </div>
 
