@@ -49,7 +49,7 @@ alt="adam-pw" /></a>
     
 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind,nodejs,bun,vite" />
+<img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind,nodejs,bun,vite,vue" />
 
 </div>
 
@@ -69,7 +69,7 @@ alt="adam-pw" /></a>
 ### Database
 
 <div align="center"> 
-<img height="50px" src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis,supabase,firebase,notion" />
+<img height="50px" src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis,supabase,appwrite,notion,firebase" />
 <img height="50px" src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png"  />
 </div>
@@ -105,7 +105,7 @@ alt="adam-pw" /></a>
 ### Others
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=ps,pr,ae,discord,linkedin,raspberrypi,wordpress" />
+<img height="50px" src="https://skillicons.dev/icons?i=ps,pr,ae,discord,linkedin,raspberrypi,wordpress,aws,gitlab,github,linux,ubuntu,docker" />
 </div>
 
 </td></tr>
