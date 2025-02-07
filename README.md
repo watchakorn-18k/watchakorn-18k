@@ -49,7 +49,7 @@ alt="adam-pw" /></a>
     
 
 <div align="center">
-<img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind,nodejs,bun,vite,vue" />
+<img height="50px"  src="https://skillicons.dev/icons?i=html,css,figma,react,svelte,tailwind,nodejs,bun,vite,vue,pinia,bun,flutter" />
 
 </div>
 
@@ -60,6 +60,8 @@ alt="adam-pw" /></a>
 <div align="center"> 
 <img height="50px" src="https://skillicons.dev/icons?i=flask,nginx,django,fastapi,express" />
 <img height="50px" src="https://docs.gofiber.io/img/logo-dark.svg" />
+<img height="50px" src="https://echo.labstack.com/img/logo-light.svg" />
+   
 </div>
 
 </td>
@@ -69,7 +71,7 @@ alt="adam-pw" /></a>
 ### Database
 
 <div align="center"> 
-<img height="50px" src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis,supabase,appwrite,notion,firebase" />
+<img height="50px" src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql,redis,supabase,appwrite,notion,firebase,postgres" />
 <img height="50px" src="https://studio3t.com/wp-content/themes/s3t-2020/images/logo-pos.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/dbgate/dbgate/master/app/icon.png"  />
 </div>
@@ -83,7 +85,7 @@ alt="adam-pw" /></a>
 
 <div align="center">    
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>   
-<img height="50px" src="https://skillicons.dev/icons?i=js,go,ts,lua,godot,rust,php,cs" />
+<img height="50px" src="https://skillicons.dev/icons?i=js,go,ts,lua,godot,rust,php,cs,dart" />
 </div>
 
 </td></tr>
@@ -93,9 +95,11 @@ alt="adam-pw" /></a>
 ### Tools
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=postman,docker,qt,vim,selenium,git,vscode,vscodium" />
+<img height="50px" src="https://skillicons.dev/icons?i=postman,docker,qt,vim,selenium,git,vscode,vscodium,jenkins,figma,notion,bitbucket,aws,gitlab,github" />
 <img height="50px" src="https://icon.icepanel.io/Technology/svg/Podman.svg" />
 <img height="50px" src="https://locust.io/static/img/logo.png" />
+<img height="50px" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />
+   
 </div>
 
 </td></tr>
@@ -105,7 +109,7 @@ alt="adam-pw" /></a>
 ### Others
 
 <div align="center">    
-<img height="50px" src="https://skillicons.dev/icons?i=ps,pr,ae,discord,linkedin,raspberrypi,wordpress,aws,gitlab,github,linux,ubuntu,docker" />
+<img height="50px" src="https://skillicons.dev/icons?i=ps,pr,ae,discord,linkedin,raspberrypi,wordpress,linux,ubuntu,apple,windows" />
 </div>
 
 </td></tr>
